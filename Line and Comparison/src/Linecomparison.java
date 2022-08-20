@@ -21,5 +21,19 @@ public class Linecomparison {
 			else
 				 System.out.println("Line 1 and Line 2 have do not have equal length.");
 			
-	    }
-	 }
+	   
+				
+				int numline1=10; 
+				int numline2=20;
+				
+				boolean result = numline1 < numline2 ;
+				
+			     System.out.println(result);
+			     System.out.println(numline1 == numline2);
+			     System.out.println(numline1 > numline2);
+			     System.out.println(numline1 < numline2);
+			     System.out.println(numline1 >= numline2);
+			     
+		       	} 
+		    }
+			     
